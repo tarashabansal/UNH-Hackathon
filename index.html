@@ -12,6 +12,22 @@ layout: default
     </div>
   </section>
 
+  <!-- Sponsor Section -->
+<section class="sponsors">
+  <div class="container">
+    <h2 class="text-center">OUR SPONSORS</h2>
+    <div class="row sponsor-container text-center">
+      {% for sponsor in site.event.sponsors %}
+      <div class="col-lg-6 col-sm-12">
+        <a href="{{ sponsor.link }}" target="_blank" rel="noopener noreferrer">
+          <img src="{{ sponsor.image }}" alt="{{ sponsor.name }}" class="sponsor-logo" />
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
   <section class="info">
     <div class="container">
       <div class="items row">

@@ -58,6 +58,16 @@ event:
       Join us for a weekend of innovation and collaboration as we explore the theme of 
       reaching for new heights in technology and beyond.
 
+# Sponsor Section
+  sponsors:
+    - image: "./images/microsoft.png"
+      name: "Microsoft"
+      link: "https://www.microsoft.com"
+
+    - image: "./images/factset.png"
+      name: "FactSet"
+      link: "https://www.factset.com"
+
   # Info Sections
   info:
     sections:

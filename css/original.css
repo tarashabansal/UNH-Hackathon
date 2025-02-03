@@ -319,3 +319,22 @@ section {
     top: -8px;
   }
 }
+.sponsors .text-center{
+  font-family: 'Open Sans';
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 25px;
+}
+
+.sponsors .sponsor-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sponsors .sponsor-logo {
+  max-width: 400px;
+  max-height: 200px;
+  object-fit: contain;
+}
+
