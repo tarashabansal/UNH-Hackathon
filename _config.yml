@@ -29,20 +29,20 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Hack New Haven | 22 - 23 March 2025"
+  title: "Hack New Haven | 22 - 23 March 2025"
   description: ""
-  image:       "./images/favicon.png"
+  image: "./images/favicon.png"
 # Event information.
 event:
-  name:        "Hack New Haven"
+  name: "Hack New Haven"
   description: "Reach for the Stars"
-  date:        "22 - 23 March 2025"
-  location:    "West Haven, CT, United States"
+  date: "22 - 23 March 2025"
+  location: "West Haven, CT, United States"
 
   trust_badge:
     year: "2025"
-    region: "na"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+    region: "na" # "na" or "eu"
+    color: "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
@@ -58,15 +58,23 @@ event:
       Join us for a weekend of innovation and collaboration as we explore the theme of 
       reaching for new heights in technology and beyond.
 
-# Sponsor Section
+  # Sponsor Section
   sponsors:
     - image: "./images/microsoft.png"
       name: "Microsoft"
       link: "https://www.microsoft.com"
 
+    - image: "./images/ibm.png"
+      name: "IBM"
+      link: "https://www.ibm.com/us-en"
+
     - image: "./images/factset.png"
       name: "FactSet"
       link: "https://www.factset.com"
+
+    - image: "./images/microboard.png"
+      name: "Microboard"
+      link: "https://microboard.com/"
 
   # Info Sections
   info:
@@ -92,9 +100,9 @@ event:
         software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
     - question: "What are the opportunities I can unlock from this event?"
       answer: >
-       This event offers participants unparalleled opportunities to grow and connect. 
-       Expand your network by collaborating with fellow innovators, and mentors. Compete for amazing prizes, rewarding your creativity and problem-solving skills. 
-       Whether you're here to win, learn, or meet like-minded people, this hackathon will leave you inspired and equipped for future success.
+        This event offers participants unparalleled opportunities to grow and connect. 
+        Expand your network by collaborating with fellow innovators, and mentors. Compete for amazing prizes, rewarding your creativity and problem-solving skills. 
+        Whether you're here to win, learn, or meet like-minded people, this hackathon will leave you inspired and equipped for future success.
     - question: "How much does it cost?"
       answer: >
         Nothing. Attending a hackathon is free.
@@ -117,7 +125,7 @@ event:
   register:
     message: >
       You'll receive more information closer to the hackathon.
-  
+
   footer:
     header_text: "Follow us on Social Media"
     links:
@@ -135,10 +143,10 @@ event:
 
 markdown: kramdown
 exclude:
- - node_modules
- - gulpfile.js
- - Gemfile
- - Gemfile.lock
- - package.json
- - README.md
- - CNAME
+  - node_modules
+  - gulpfile.js
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - README.md
+  - CNAME
