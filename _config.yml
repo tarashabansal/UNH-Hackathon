@@ -76,6 +76,14 @@ event:
       name: "Microboard"
       link: "https://microboard.com/"
 
+    - image: "./images/tcoe.png"
+      name: "TCOE"
+      link: "https://www.newhaven.edu/engineering/college-culture/index.php"
+
+    - image: "./images/pltw.png"
+      name: "PLTW"
+      link: "https://www.sausd.us/domain/5674"
+
   # Info Sections
   info:
     sections:
