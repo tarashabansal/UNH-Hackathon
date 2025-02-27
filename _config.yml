@@ -118,6 +118,7 @@ event:
       answer: >
         Yes. Only students who are currently enrolled at a college/university or
         have graduated within the past 12 months are eligible to attend.
+        <br> <b style="color: red;">Additionally, participants must be 18 years or older to attend the hackathon.</b>
     - question: "Where is the event?"
       answer: >
         The event is being hosted at the University of New Haven, West Haven, CT.
