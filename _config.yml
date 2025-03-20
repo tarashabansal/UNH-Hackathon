@@ -45,12 +45,12 @@ event:
     color: "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
-    links:
-      - text: "Register Now"
-        my_mlh:
-          redirect_uri: "https://forms.gle/zAXG6BSQNx5d4X5F8"
-      - text: "Sponsor"
-        href: "mailto:yejar1@unh.newhaven.edu"
+  #  links:
+  #    - text: "Register Now"
+  #      my_mlh:
+  #        redirect_uri: "https://forms.gle/zAXG6BSQNx5d4X5F8"
+  #    - text: "Sponsor"
+  #      href: "mailto:yejar1@unh.newhaven.edu"
 
   about:
     description: >
