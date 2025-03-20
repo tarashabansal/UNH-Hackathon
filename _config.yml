@@ -58,6 +58,10 @@ event:
       Join us for a weekend of innovation and collaboration as we explore the theme of 
       reaching for new heights in technology and beyond.
 
+  sections:
+  - id: venue
+    title: "Event Venue"
+
   # Sponsor Section
   sponsors:
     - image: "./images/microsoft.png"
